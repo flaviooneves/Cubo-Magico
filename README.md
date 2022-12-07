@@ -1,2 +1,3 @@
-# Cubo Magico
- Inventário de coleção de Cubos
+# Cubo Mágico
+ Inventário de coleção de Cubos Mágicos
+ 
